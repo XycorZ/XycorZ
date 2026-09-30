@@ -1,4 +1,11 @@
-Halloooo. Im XycorZ.
-I js use this place to put out my program's when I'm bored. 
+# Hallo. I'm XycorZ. 
+** Learning programming cos I'm bored. **
+[Programmer/Artist/Streamer]
 
-Meow
+
+OS: Windows 11, Arch Linux.
+
+### Languages: 
+Mainly in C. Embrace the power of C. 
+Screw Python (I use it sometimes).
+<img >
