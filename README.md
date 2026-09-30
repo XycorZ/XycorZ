@@ -1,5 +1,5 @@
 # Hallo. I'm XycorZ. 
-**Learning programming cos I'm bored.**<br>
+Learning programming cos I'm bored. Meow<br>
 [Programmer/Artist/Streamer]<br>
 
 OS: Windows 11, Arch Linux. <br>
