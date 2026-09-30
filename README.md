@@ -2,8 +2,7 @@
 **Learning programming cos I'm bored.**<br>
 [Programmer/Artist/Streamer]<br>
 
-OS: Windows 11, Arch Linux. 
-<img align ="" alt="Arch" width="20" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /><br>
+OS: Windows 11, Arch Linux. <br>
           
 ### Languages: 
 Mainly in C. Embrace the power of C. <br>
