@@ -1,5 +1,6 @@
 # Hallo. I'm XycorZ. 
-** Learning programming cos I'm bored. **
+**Learning programming cos I'm bored. **
+
 [Programmer/Artist/Streamer]
 
 
