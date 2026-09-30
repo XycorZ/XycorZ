@@ -3,7 +3,7 @@
 [Programmer/Artist/Streamer]<br>
 
 OS: Windows 11, Arch Linux. 
-<img align ="" alt="Arch" width="30" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /><br>
+<img align ="" alt="Arch" width="16" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /><br>
           
 ### Languages: 
 Mainly in C. Embrace the power of C. <br>
